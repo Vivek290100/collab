@@ -13,7 +13,7 @@ Welcome to Project Collab, an innovative application that seamlessly integrates 
 📄 License
 📬 Contact
 
-->Features
+🌈Features
 Cross-Platform Compatibility: Seamless user experience across web and mobile platforms.
 Real-time Data Updates: Enjoy live updates and notifications with efficient data synchronization.
 User Authentication: Secure login and registration with JWT-based authentication.
