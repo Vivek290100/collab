@@ -73,3 +73,36 @@ We welcome contributions! If you have suggestions for improvements or new featur
 
 📬 Contact
 Project Repository:https://github.com/Vivek290100/collab
+
+
+               __________________________________________________
+              |                                                  |
+              |               🚀 Project Collab 🚀              |
+              |__________________________________________________|
+                           /                       \
+                          /                         \
+                         /                           \
+              __________|_________           __________|_________
+             |                    |         |                     |
+             |      Frontend      |         |      Backend        |
+             |      (Flutter)     |         |   (Node.js +        |
+             |                    |         |    MongoDB)         |
+             |____________________|         |_____________________|
+                      |                                 |
+                      |                                 |
+                      |                                 |
+             ________|________                 ________|________
+            |                 |               |                 |
+            |   UI Components |               |   RESTful API   |
+            | (Widgets & UI)  |               |   (Express.js)  |
+            |_________________|               |_________________|
+                     |                                 |
+                     |                                 |
+                     |                                 |
+             ________|________                 ________|________
+            |                 |               |                 |
+            |   State         |               |  Database       |
+            | Management      |               | (MongoDB)       |
+            |   (BLoC)        |               |                 |
+            |_________________|               |_________________|
+
