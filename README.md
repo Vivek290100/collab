@@ -4,14 +4,14 @@
 Welcome to Project Collab, an innovative application that seamlessly integrates the power of the MERN stack with Flutter to create an immersive user experience across both web and mobile platforms.
 
 
-📚 Table of Contents
-🌈 Features
-🛠️ Technologies Used
-🔧 Installation
-🚀 Usage
-🤝 Contributing
-📄 License
-📬 Contact
+#📚 Table of Contents
+#🌈 Features
+#🛠️ Technologies Used
+#🔧 Installation
+#🚀 Usage
+#🤝 Contributing
+#📄 License
+#📬 Contact
 
 🌈Features
 Cross-Platform Compatibility: Seamless user experience across web and mobile platforms.
