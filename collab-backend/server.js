@@ -1,19 +1,24 @@
 const express = require('express');
 const app = express();
-const bodyParser = require('body-parser');
 const cors = require('cors');
+require('dotenv').config();
 
-
-app.use(bodyParser.json());
+app.use(express.json());
 app.use(cors());
 
+app.get('/', (req, res) => {
+    res.send("Welcome to the Sample API!");
+});
+
 app.get('/api/data', (req, res) => {
-    // const data = req.body;
-    // res.status(200).json({ message: 'Data received', data });
-    res.send("Hiiiiiiiiiiiiii!")
+    res.json({ message: "Hello, this is your API response!" });
+});
+
+app.post('/api/echo', (req, res) => {
+    res.json({ received: req.body });
 });
 
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
-    console.log(`Server running on port "http://localhost:${PORT}"`);
+    console.log(`Server running on http://localhost:${PORT}`);
 });
