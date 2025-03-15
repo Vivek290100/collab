@@ -10,7 +10,7 @@ app.use(cors({ origin: "*" }));
 
 
 app.get('/', (req, res) => {
-    res.send("Welcome to the Sample API!");
+    res.send("Welcome to the Sample API!!!");
 });
 
 app.get('/api/data', (req, res) => {
